@@ -1,0 +1,8 @@
+The following indicate the changes that were made to the wGrow workspace file:
+
+Revision 2:
+Modified the LDR sensor value so that the input reading of < 500 is now between 1300-7000 for optimal LUX levels of the readings. This ensures a more optimal
+LUX value for the plant's growth.
+
+Revision: 3
+Changes so that there's only one modification to the LED (instead of having two LEDs, modified to only have 1 LED adjusted for power efficiency purposes)
