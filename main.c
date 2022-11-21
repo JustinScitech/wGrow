@@ -89,7 +89,6 @@ int main(void)
   MX_GPIO_Init();
   MX_ADC1_Init();
   HAL_GPIO_WritePin(GPIOA, GPIO_PIN_1, 1);
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, 1);
   /* USER CODE BEGIN 2 */
   uint16_t readValue;
 
@@ -105,11 +104,9 @@ int main(void)
 
 	  if (readValue < 1300 || readValue > 7000) {
 	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_1, 0);
-	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, 1);
 	  	}
 	  else {
 	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_1, 1);
-	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, 0);
 	  	}
 	  HAL_Delay(10);
     /* USER CODE END WHILE */
