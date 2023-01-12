@@ -14,9 +14,9 @@ The wGrow device is comprised of a circuit with breadboard and wires connected t
 
 ## Schematic rundown
 
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/56651128/212202739-faa38f4b-5204-45ca-b54b-09f408b1a0d3.png)
-</p>
+
   
 ## :scroll: License
 The library is licensed under <kbd>GNU GENERAL PUBLIC LICENSE</kbd>
