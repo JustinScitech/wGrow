@@ -12,7 +12,7 @@
 
 The wGrow device is comprised of a circuit with breadboard and wires connected to an STM32 MCU. The data is interpreted and analyzed in the **STM32Cube IDE** using the **STM32 library** based on the inputs from the sensors. Through this connection, the tracked data from the components will then be able to be sent off to the app storing the data. 
 
-##Schematic rundown
+## Schematic rundown
 
 <p align="center">
 ![image](https://user-images.githubusercontent.com/56651128/212202739-faa38f4b-5204-45ca-b54b-09f408b1a0d3.png)
