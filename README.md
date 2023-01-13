@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/56651128/212202379-d5ec1281-7d4e-4622-bd0b-9eabdc2eb280.png)
 </p>
 
-###wGrow is a small device that checks and monitors if the environment is suitable for greenery and plant growth through light, heat, moisture, and pH trackers/sensors. It also provides raw data in forms of graphs and tables to show the long term environmental changes in these areas. 
+### wGrow is a small device that checks and monitors if the environment is suitable for greenery and plant growth through light, heat, moisture, and pH trackers/sensors. It also provides raw data in forms of graphs and tables to show the long term environmental changes in these areas. 
 
 ## How it works
 
