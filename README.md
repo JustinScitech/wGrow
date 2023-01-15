@@ -16,7 +16,7 @@ With wGrow, you'll be able to view raw data in the form of graphs and tables, sh
 ## Schematic Rundown
 ![image](https://user-images.githubusercontent.com/56651128/212202739-faa38f4b-5204-45ca-b54b-09f408b1a0d3.png)
 
-Check out the [wGrow GitHub repository](https://github.com/wGrow) for more information and to see the code and schematics for the project. With wGrow, taking care of your plants has never been easier!
+Check out this repository for more information and to see the code and schematics for the project. With wGrow, taking care of your plants has never been easier!
 
   
 ## :scroll: License
